@@ -15,7 +15,7 @@
 	"Orders": {
 		"OrderID": null,
 		"OrderDate": "2022-11-22",
-		"OrderType": "販売系",
+		"OrderType": "OD",
 		"Buyer": 101,
 		"Seller": 201,
 		"CreationDate": null,
